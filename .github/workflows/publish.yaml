@@ -27,6 +27,7 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.85.0
+        HUGO_EXTENDED: true
         TARGET_REPO: quantumontpellier/quantumontpellier.github.io
         TOKEN: ${{ secrets.PAT_TOKEN }}
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
