@@ -17,8 +17,9 @@ jobs:
         submodules: true
 
     - name: Install Go
-      run: sudo snap install --classic go
-
+      uses: actions/setup-go@v2
+      with:
+        go-version: '1.16.3'
     - name: Test Go
       run: echo "$PATH" && which go
         
