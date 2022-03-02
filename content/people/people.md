@@ -41,3 +41,5 @@ design:
 # it’s not directly associated with any content. 
 authors: ["adrien", "aida", "siyuan"]
 ---
+
+Hello, this is a text that should appear in the team section...
