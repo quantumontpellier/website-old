@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Siyuan Niu
+name: Aida Todri-Sanial
 
 # Username (this should match the folder name)
 authors:
-- siyuan
+- aida
 
 # Is this the primary user of the site?
 superuser: false
