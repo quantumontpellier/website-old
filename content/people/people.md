@@ -39,7 +39,7 @@ design:
 # if a user does not appear in the widget, edit the user’s profile to add an authors field
 # containing their username (folder name) to force Hugo to generate their profile even though
 # it’s not directly associated with any content. 
-authors: ["adrien", "aida", "siyuan"]
+# authors: ["adrien", "aida", "siyuan"]
 ---
 
 Hello, this is a text that should appear in the team section...
