@@ -30,4 +30,4 @@ Everything can be done via GitHub webpage and you do not have to install anythin
    ---
    ```
    and then write down your blog post in Markdown. There are some useful additions to the Markdown syntax that are described here: [Page Elements: Writing content with Markdown, LaTeX, and Shortcodes](https://wowchemy.com/docs/content/writing-markdown-latex/).
-   Finally, in order to validate your addition, you should commit (directly to the **main** branch) your files using the box below the text area.
+   Finally, in order to validate your addition, you should commit (directly to the `main` branch) your files using the box below the text area.
